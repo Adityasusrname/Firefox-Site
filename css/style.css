@@ -1,0 +1,21 @@
+html{
+    background-color: blue;
+}
+h1{
+    color: black;
+}
+body{
+
+    width:500px;
+    height:800px;
+    background-color: orange;
+    padding:20px;
+    margin: 50px auto;
+    border: 5px solid black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    
+}
